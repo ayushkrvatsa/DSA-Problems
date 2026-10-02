@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ayushkrvatsa/Leetcode-questions/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ayushkrvatsa/Leetcode-questions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
